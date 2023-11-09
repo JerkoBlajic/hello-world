@@ -8,3 +8,7 @@ ovdije ce biti obijavjen uvod u github
 ovdije ce biti ...
 
 # obijava sadrzaja uz pomoc github pahes
+ovdije ce biti upute
+
+# test datoteka
+[poveznica na test.md](test.md)
